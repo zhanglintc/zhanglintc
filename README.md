@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+```javascript
+const zhanglintc = {
+  code: [Python, Perl, Javascript, Ruby],
+  learning: [
+    Java
+  ],
+  contact: "i@zhanglintc.co",
+}
+```
+
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=zhanglintc&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanglintc">
+</p>
+
 <!--
 **zhanglintc/zhanglintc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

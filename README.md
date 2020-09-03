@@ -2,11 +2,11 @@
 
 ```javascript
 const zhanglintc = {
-  code: [Python, Perl, Javascript, Ruby],
+  code: ['Python', 'Perl', 'JavaScript', 'Ruby'],
   learning: [
-    Java
+    'Java'
   ],
-  contact: "i@zhanglintc.co",
+  contact: 'i@zhanglintc.co',
 }
 ```
 

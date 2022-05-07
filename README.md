@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My organizations:
-- [Mmrz-Repos](https://github.com/Mmrz-Repos)
+[![Mmrz-Repos](https://avatars.githubusercontent.com/u/105112855?s=48&v=4)](https://github.com/Mmrz-Repos)
+[![Theodolite](https://avatars.githubusercontent.com/u/7031795?s=48&v=4)](https://github.com/Theodolite)
 
 ---
 
